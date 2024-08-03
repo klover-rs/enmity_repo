@@ -9,9 +9,29 @@
             "version": "2.2.6",
             "down": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
             "category": "Tweaked Apps",
-            "bundleID": "com.enmity.client",
-            "appstorte": "com.emnity.client"
+            "bundleID": "com.hammerandchisel.discord",
+            "appstorte": "com.hammerandchisel.discord",
+            "screenshots": [
+                "https://github.com/enmity-mod/assets/blob/main/Enmity_Banner.png?raw=true"
+            ]
+        },
+        {
+            "name": "Rosiecord",
+            "version": "223",
+            "icon": "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Icons/EnmityIcon60x60%402x.png",
+            "down": "https://github.com/acquitelol/rosiecord/releases/download/rosiecord_223/Rosiecord-223_GGSans-Font+Plumpy_Icons.ipa",
+            "dev": "acquitelol",
+            "category": "Tweaked Apps",
+            "description": "Enmity, but with custom icons",
+            "bundleID": "com.hammerandchisel.discord",
+            "appstore": "com.hammerandchisel.discord",
+            "enableBackup": true,
+            "screenshots": [
+              "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Rosiecord_Mocks/Plumpy.png",
+              "https://raw.githubusercontent.com/acquitelol/rosiecord/master/Rosiecord_Mocks/Plumpy_Flowercord.png"
+            ]
         }
+        
     ]
     
 }
