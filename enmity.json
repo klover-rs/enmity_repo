@@ -1,0 +1,17 @@
+{
+    "META": {
+        "repoName": "Enmity repo",
+        "repoIcon": "https://github.com/klover-rs/enmity_repo/blob/main/discord_logo.jpg"
+    },
+    "Tweaked": [
+        {
+            "name": "Enmity",
+            "version": "2.2.6",
+            "down": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+            "category": "Tweaked Apps",
+            "bundleID": "com.enmity.client",
+            "appstorte": "com.emnity.client"
+        }
+    ]
+    
+}
